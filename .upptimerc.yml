@@ -12,11 +12,11 @@ sites:
     url: irc.digitalirc.org
     port: 6697
   - name: '[HTTP] Webchat'
-    url: https://webchat.digitalirc.org/nginx-health
+    url: https://webchat.digitalirc.org/nginx-health?cf_by=$SECRET_CF_BYPASS
   - name: '[HTTP] Main Site'
-    url: https://digitalirc.org/
+    url: https://digitalirc.org/?cf_by=$SECRET_CF_BYPASS
   - name: '[HTTP] Services API'
-    url: $SECRET_SERVICE_API
+    url: $SECRET_SERVICE_API?cf_by=$SECRET_CF_BYPASS
   - name: '[Server] teacup'
     check: "tcp-ping"
     url: teacup.digitalirc.org
