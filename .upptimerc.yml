@@ -3,37 +3,37 @@ owner: LordRandom # Your GitHub organization or username, where this repository 
 repo: digitalirc-status # The name of this repository
 
 sites:
-  - name: [IRC] Round Robbin
+  - name: '[IRC] Round Robbin'
     check: "tcp-ping"
     url: irc.digitalirc.org
     port: 6667
-  - name: [IRC] SSL Round Robbin
+  - name: '[IRC] SSL Round Robbin'
     check: "tcp-ping"
     url: irc.digitalirc.org
     port: 6697
-  - name: [HTTP] Webchat
+  - name: '[HTTP] Webchat'
     url: https://webchat.digitalirc.org/
-  - name: [HTTP] Main Site
+  - name: '[HTTP] Main Site'
     url: https://digitalirc.org/
-  - name: [HTTP] Services API
+  - name: '[HTTP] Services API'
     url: $SECRET_SERVICE_API
-  - name: [Server] teacup
+  - name: '[Server] teacup'
     check: "tcp-ping"
     url: teacup.digitalirc.org
     port: 6697
-  - name: [Server] stirfry
+  - name: '[Server] stirfry'
     check: "tcp-ping"
     url: stirfry.digitalirc.org
     port: 6697
-  - name: [Server] nugget
+  - name: '[Server] nugget'
     check: "tcp-ping"
     url: nugget.digitalirc.org
     port: 6697
-  - name: [Server] dynamo
+  - name: '[Server] dynamo'
     check: "tcp-ping"
     url: dynamo.digitalirc.org
     port: 6697
-  - name: [Server] mooo
+  - name: '[Server] mooo'
     check: "tcp-ping"
     url: mooo.digitalirc.org
     port: 6697
