@@ -12,7 +12,7 @@ sites:
     url: irc.digitalirc.org
     port: 6697
   - name: '[HTTP] Webchat'
-    url: https://webchat.digitalirc.org/
+    url: https://webchat.digitalirc.org/nginx-health
   - name: '[HTTP] Main Site'
     url: https://digitalirc.org/
   - name: '[HTTP] Services API'
