@@ -60,9 +60,9 @@
     "url": "https://digitalirc.org/?cf_by=$SECRET_CF_BYPASS",
     "icon": "https://favicons.githubusercontent.com/digitalirc.org",
     "slug": "http-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.74%",
@@ -72,6 +72,7 @@
     "timeMonth": 1503,
     "timeYear": 1299,
     "dailyMinutesDown": {
+      "2021-09-04": 0,
       "2021-08-31": 18,
       "2021-08-26": 124,
       "2021-07-22": 21
