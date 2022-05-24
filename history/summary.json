@@ -123,9 +123,9 @@
     "url": "nugget.digitalirc.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server-nugget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 51,
     "timeMonth": 47,
     "timeYear": 73,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "[Server] dynamo",
