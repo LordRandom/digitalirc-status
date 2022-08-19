@@ -22,9 +22,9 @@
     "url": "irc.digitalirc.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "irc-ssl-round-robbin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 143,
     "timeMonth": 139,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-19": 0
+    }
   },
   {
     "name": "[HTTP] Webchat",
@@ -130,9 +132,9 @@
     "url": "nugget.digitalirc.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server-nugget",
-    "status": "up",
-    "uptime": "94.92%",
-    "uptimeDay": "93.16%",
+    "status": "down",
+    "uptime": "94.93%",
+    "uptimeDay": "93.15%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "34.58%",
     "uptimeYear": "94.54%",
@@ -142,6 +144,7 @@
     "timeMonth": 65,
     "timeYear": 68,
     "dailyMinutesDown": {
+      "2022-08-19": 0,
       "2022-08-18": 98,
       "2022-08-11": 926,
       "2022-08-10": 1440,
