@@ -18,8 +18,7 @@
     "dailyMinutesDown": {
       "2023-01-20": 24,
       "2023-01-19": 22,
-      "2022-10-09": 31,
-      "2022-10-08": 202
+      "2022-10-09": 31
     }
   },
   {
@@ -32,17 +31,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.79%",
     "time": 134,
     "timeDay": 0,
-    "timeWeek": 130,
-    "timeMonth": 150,
-    "timeYear": 135,
+    "timeWeek": 82,
+    "timeMonth": 149,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2023-01-20": 161,
       "2023-01-19": 133,
-      "2022-10-09": 116,
-      "2022-10-08": 702
+      "2022-10-09": 116
     }
   },
   {
@@ -56,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 597,
-    "timeDay": 484,
-    "timeWeek": 694,
-    "timeMonth": 586,
-    "timeYear": 591,
+    "time": 596,
+    "timeDay": 695,
+    "timeWeek": 732,
+    "timeMonth": 588,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2023-08-26": 25,
       "2023-08-23": 20,
@@ -75,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalirc.org.ico",
     "slug": "http-main-site",
     "status": "down",
-    "uptime": "48.73%",
+    "uptime": "48.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1092,
+    "time": 1093,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 74,
+      "2023-10-08": 80,
+      "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -449,8 +448,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440
+      "2022-10-09": 1440
     }
   },
   {
@@ -465,9 +463,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 125,
-    "timeDay": 143,
-    "timeWeek": 104,
-    "timeMonth": 120,
+    "timeDay": 115,
+    "timeWeek": 109,
+    "timeMonth": 118,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2022-10-09": 51
@@ -485,9 +483,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 212,
-    "timeWeek": 260,
-    "timeMonth": 240,
+    "timeDay": 242,
+    "timeWeek": 255,
+    "timeMonth": 241,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2022-10-09": 75
@@ -499,18 +497,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-nugget",
     "status": "down",
-    "uptime": "52.92%",
+    "uptime": "52.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.57%",
+    "uptimeYear": "1.30%",
     "time": 74,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 97,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-10-07": 74,
+      "2023-10-08": 80,
+      "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -869,8 +868,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1196,
-      "2022-10-09": 626,
-      "2022-10-08": 1385
+      "2022-10-09": 626
     }
   },
   {
@@ -885,10 +883,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 132,
-    "timeDay": 133,
-    "timeWeek": 120,
+    "timeDay": 159,
+    "timeWeek": 131,
     "timeMonth": 129,
-    "timeYear": 133,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2023-08-24": 1396,
       "2023-08-23": 1440,
@@ -909,16 +907,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.62%",
     "time": 135,
-    "timeDay": 132,
-    "timeWeek": 110,
-    "timeMonth": 134,
+    "timeDay": 143,
+    "timeWeek": 118,
+    "timeMonth": 133,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2023-09-21": 37,
-      "2022-10-09": 626,
-      "2022-10-08": 1440
+      "2022-10-09": 626
     }
   }
 ]
