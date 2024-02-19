@@ -6,9 +6,9 @@
     "slug": "irc-round-robbin",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.87%",
     "time": 147,
     "timeDay": 141,
@@ -16,7 +16,6 @@
     "timeMonth": 141,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-02-18": 12,
       "2024-02-16": 21,
       "2024-02-11": 20,
       "2024-02-07": 19,
@@ -115,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalirc.org.ico",
     "slug": "http-main-site",
     "status": "up",
-    "uptime": "49.61%",
+    "uptime": "49.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.29%",
+    "uptimeYear": "20.31%",
     "time": 221,
     "timeDay": 232,
     "timeWeek": 217,
@@ -415,8 +414,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -463,7 +461,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-nugget",
     "status": "down",
-    "uptime": "45.34%",
+    "uptime": "45.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -474,7 +472,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 1412,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -837,8 +836,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
