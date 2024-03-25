@@ -1,7 +1,7 @@
 url: irc.digitalirc.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-25T07:25:10.189Z
+status: up
+code: 200
+responseTime: 147
+lastUpdated: 2024-03-25T07:36:27.108Z
 startTime: 2021-07-22T19:15:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
