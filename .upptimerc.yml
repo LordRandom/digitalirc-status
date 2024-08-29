@@ -39,9 +39,9 @@ status-website:
   cname: status.digitalirc.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: DigitalIRC Status
+  name: DigitalIRC
   theme: night
-  introTitle: "**DigitalIRC Status** network status monitoring, powered entirely by GitHub."
+  introTitle: "**DigitalIRC** network status monitoring, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
     - title: Status
