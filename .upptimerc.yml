@@ -23,17 +23,13 @@ sites:
     check: "tcp-ping"
     url: stirfry.digitalirc.org
     port: 6697
-  - name: '[Server] nugget'
-    check: "tcp-ping"
-    url: nugget.digitalirc.org
-    port: 6697
   - name: '[Server] dynamo'
     check: "tcp-ping"
     url: dynamo.digitalirc.org
     port: 6697
-  - name: '[Server] mooo'
+  - name: '[Server] hell'
     check: "tcp-ping"
-    url: mooo.digitalirc.org
+    url: hell.digitalirc.org
     port: 6697
   
     
