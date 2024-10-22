@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.75%",
     "time": 142,
-    "timeDay": 152,
-    "timeWeek": 157,
-    "timeMonth": 149,
+    "timeDay": 207,
+    "timeWeek": 165,
+    "timeMonth": 151,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2024-10-12": 18,
@@ -79,9 +79,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
     "time": 143,
-    "timeDay": 178,
-    "timeWeek": 125,
-    "timeMonth": 136,
+    "timeDay": 207,
+    "timeWeek": 133,
+    "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2024-10-12": 18,
@@ -144,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
-    "timeDay": 645,
-    "timeWeek": 681,
-    "timeMonth": 665,
+    "timeDay": 447,
+    "timeWeek": 657,
+    "timeMonth": 660,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -156,15 +156,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalirc.org.ico",
     "slug": "http-main-site",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.17%",
+    "uptimeYear": "87.44%",
     "time": 239,
-    "timeDay": 206,
-    "timeWeek": 228,
-    "timeMonth": 230,
+    "timeDay": 167,
+    "timeWeek": 211,
+    "timeMonth": 225,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-12-06": 1315,
@@ -210,8 +210,7 @@
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
-      "2023-10-24": 1440,
-      "2023-10-23": 1440
+      "2023-10-24": 1440
     }
   },
   {
@@ -226,9 +225,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 146,
-    "timeWeek": 112,
-    "timeMonth": 105,
+    "timeDay": 97,
+    "timeWeek": 105,
+    "timeMonth": 103,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -244,13 +243,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 169,
-    "timeWeek": 197,
-    "timeMonth": 203,
+    "timeDay": 208,
+    "timeWeek": 202,
+    "timeMonth": 204,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2023-10-23": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Server] dynamo",
@@ -264,9 +261,9 @@
     "uptimeMonth": "95.02%",
     "uptimeYear": "99.58%",
     "time": 115,
-    "timeDay": 151,
-    "timeWeek": 117,
-    "timeMonth": 117,
+    "timeDay": 101,
+    "timeWeek": 110,
+    "timeMonth": 116,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-10-12": 818,
@@ -285,9 +282,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 176,
-    "timeWeek": 146,
-    "timeMonth": 139,
+    "timeDay": 131,
+    "timeWeek": 139,
+    "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {}
   }
