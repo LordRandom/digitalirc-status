@@ -137,9 +137,9 @@
     "url": "https://webchat.digitalirc.org/nginx-health?cf_by=$SECRET_CF_BYPASS",
     "icon": "https://icons.duckduckgo.com/ip3/webchat.digitalirc.org.ico",
     "slug": "http-webchat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +148,9 @@
     "timeWeek": 621,
     "timeMonth": 674,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   },
   {
     "name": "[HTTP] Main Site",
@@ -156,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalirc.org.ico",
     "slug": "http-main-site",
     "status": "up",
-    "uptime": "61.52%",
+    "uptime": "61.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.87%",
     "time": 241,
     "timeDay": 265,
     "timeWeek": 240,
