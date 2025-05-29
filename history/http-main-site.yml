@@ -1,7 +1,7 @@
 url: https://digitalirc.org/?cf_by=$SECRET_CF_BYPASS
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2025-05-29T16:33:50.682Z
+status: down
+code: 403
+responseTime: 170
+lastUpdated: 2025-05-29T21:45:59.444Z
 startTime: 2021-07-22T19:15:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
