@@ -1,7 +1,7 @@
 url: https://webchat.digitalirc.org/nginx-health?cf_by=$SECRET_CF_BYPASS
 status: down
 code: 403
-responseTime: 132
-lastUpdated: 2026-04-30T23:54:43.269Z
+responseTime: 224
+lastUpdated: 2026-05-01T23:54:59.689Z
 startTime: 2021-07-22T19:15:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
